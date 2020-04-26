@@ -1,0 +1,20 @@
+# Site settings
+author: Andrew Hotchkiss
+title: 
+header-img: img/home-bg.png
+email: a.hotchkiss13@gmail.com
+copyright_name: Andrew Hotchkiss
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  stones-1130
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
