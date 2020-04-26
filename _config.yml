@@ -1,11 +1,11 @@
 # Site settings
-author: Andrew Hotchkiss
-title: 
+author: Andrew H.
+title: Jumpin' Jack #Hash
 header-img: img/home-bg.png
 email: a.hotchkiss13@gmail.com
-copyright_name: Andrew Hotchkiss
+copyright_name: Andrew H.
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Data Science musings
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  stones-1130
